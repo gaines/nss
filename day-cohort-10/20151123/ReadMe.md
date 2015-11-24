@@ -2,6 +2,7 @@
 ### Nashville Software School
 ---
 Today we looked different ways of accessing a SQL Server database while reviewing object oriented concepts.
+After class I added a second solution to demonstrate how the same functionality can be achieved with Entity Framework.
 
 This code requires a SQL Express installation on the local machine, with SQL Authentication (Mixed Mode) enabled and the sa password set to "Access123". It also assumes there's a database named TestDB containing a table named Student with the properties Id (int, identity) and Name (varchar).
 
