@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace DataAccessDemo.Tests
+namespace EntityFrameworkDemo.Tests
 {
     [TestClass]
     public class DataAccessMethodsTests
