@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo.csproj", "{DE035C2C-ECBF-4558-BE48-3883A172D4BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{DE035C2C-ECBF-4558-BE48-3883A172D4BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo.Tests", "..\EntityFrameworkDemo.Tests\EntityFrameworkDemo.Tests.csproj", "{A89425BB-C35D-41E7-A072-F822A1C56B52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo.Tests", "EntityFrameworkDemo.Tests\EntityFrameworkDemo.Tests.csproj", "{A89425BB-C35D-41E7-A072-F822A1C56B52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
